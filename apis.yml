@@ -167,6 +167,13 @@ common:
       - name: Compliance Reporting
       - name: Onboarding Automation
       - name: Headcount Reporting
+integrations:
+  - name: Brokers
+  - name: Alliance Partners
+  - name: Accountants
+  - name: Venture & Private Equity
+  - name: Partner Integrations
+  - name: HERE
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
