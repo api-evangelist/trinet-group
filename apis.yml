@@ -109,6 +109,8 @@ apis:
       in assigning, updating, and auditing employee roles for system access control.
 
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/trinet
   - type: Website
     url: https://www.trinet.com
     name: TriNet
