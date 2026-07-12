@@ -110,6 +110,10 @@ apis:
       in assigning, updating, and auditing employee roles for system access control.
 
 common:
+  - type: DomainSecurity
+    url: security/trinet-group-domain-security.yml
+  - url: https://www.trinet.com/insights
+    type: Blog
   - type: LinkedIn
     url: https://www.linkedin.com/company/trinet
   - type: Website
