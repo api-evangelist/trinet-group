@@ -1,0 +1,14 @@
+{
+  "repo": "trinet-group",
+  "feeds": [
+    {
+      "source": "https://www.trinet.com/insights",
+      "feed_url": "https://www.trinet.com/insights",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    }
+  ],
+  "fetched": "2026-07-11T11:50:51Z",
+  "post_count": 12
+}
