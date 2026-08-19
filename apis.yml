@@ -31,7 +31,7 @@ tags:
   - Fortune 1000
 created: '2026-03-24'
 modified: '2026-05-03'
-specificationVersion: '0.19'
+specificationVersion: '0.23'
 apis:
   - aid: trinet-group:company-api
     name: TriNet Company API
