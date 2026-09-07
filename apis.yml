@@ -133,6 +133,42 @@ apis:
       in assigning, updating, and auditing employee roles for system access control.
 
 common:
+  - type: About
+    url: https://www.trinet.com/about-us
+  - type: Portal
+    url: https://developers.trinet.com/
+  - type: Product
+    url: https://www.trinet.com/peo
+  - type: Product
+    url: https://www.trinet.com/solutions/hr-plus
+  - type: Product
+    url: https://www.trinet.com/hr-services/payroll
+  - type: Product
+    url: https://www.trinet.com/hr-services/benefits
+  - type: Product
+    url: https://www.trinet.com/hr-services/technology-platform/time-off
+  - type: Product
+    url: https://www.trinet.com/solutions/hr-plus/hr-platform/time-and-scheduling
+  - type: Marketplace
+    url: https://www.trinet.com/hr-services/technology-platform/marketplace
+  - type: Partners
+    url: https://www.trinet.com/partners/marketplace-partners
+  - type: Newsroom
+    url: https://www.trinet.com/about-us/newsroom
+  - type: Careers
+    url: https://www.trinet.com/about-us/careers
+  - type: InvestorRelations
+    url: https://investor.trinet.com/
+  - type: Contact
+    url: https://www.trinet.com/contact-us
+  - type: Twitter
+    url: https://twitter.com/TriNet
+  - type: YouTube
+    url: https://www.youtube.com/user/TriNetGroup
+  - type: Facebook
+    url: https://www.facebook.com/TriNet
+  - type: TermsOfService
+    url: https://www.trinet.com/terms-of-use
   - type: DomainSecurity
     url: security/trinet-group-domain-security.yml
   - url: https://www.trinet.com/insights
@@ -207,5 +243,3 @@ integrations:
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
-x-parent: trinet
-x-relationship: product
