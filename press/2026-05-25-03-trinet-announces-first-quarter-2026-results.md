@@ -1,7 +1,9 @@
 ---
 title: TriNet Announces First Quarter 2026 Results
 url: https://www.prnewswire.com/news-releases/trinet-announces-first-quarter-2026-results-302758367.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"TriNet Group" press release artificial intelligence'
 position: 3
 source: serpapi-google

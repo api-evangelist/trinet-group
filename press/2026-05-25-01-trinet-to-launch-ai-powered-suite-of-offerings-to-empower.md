@@ -1,7 +1,9 @@
 ---
 title: TriNet to Launch AI-Powered Suite of Offerings to Empower ...
 url: https://www.trinet.com/about-us/news-press/press-releases/trinet-to-launch-ai-powered-suite-of-offerings-to-empower-smbs-with-personalized-data-driven-hr-support
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"TriNet Group" press release artificial intelligence'
 position: 1
 source: serpapi-google
